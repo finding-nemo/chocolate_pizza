@@ -1,5 +1,5 @@
 *
-  {border: black solid 2px;}
+  border: black solid 2px;
 
 header {
 
@@ -11,23 +11,25 @@ ul {
 h6 {
   margin-bottom: 0px;
   margin-top: 0px;
+  display: block;
 }
 h2 {
   margin-bottom:0px;
   margin-top: 0px;
   padding-top: 0px;
-  display: block;
 
 }
 ul {
   list-style-type: none;
   overflow: hidden;
-  display: inline block;
-  margin-left: 100px;
-  margin-bottom;
+  margin-left: 400px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 div.block {
   display: inline-block;
+  margin-top: 15px;
+  margin-left: 193px;
 }
 div.top {
   display: inline-block;
