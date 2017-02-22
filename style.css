@@ -11,21 +11,24 @@ ul {
 h6 {
   margin-bottom: 0px;
   margin-top: 0px;
-
 }
 h2 {
-  margin-bottom: 0px;
-  margin-top: -30px;
+  margin-bottom:0px;
+  margin-top: 0px;
   padding-top: 0px;
+  display: block;
 
 }
 ul {
   list-style-type: none;
   overflow: hidden;
   display: inline block;
-  margin: 0px;
-
+  margin-left: 100px;
+  margin-bottom;
 }
 div.block {
+  display: inline-block;
+}
+div.top {
   display: inline-block;
 }
