@@ -5,26 +5,28 @@ header {
 
 }
 ul {
-  margin-top: 0;
+  margin-top: 0
 
 }
 h6 {
   margin-bottom: 0px;
   margin-top: 0px;
   display: block;
+  font-size: 13px;
 }
 h2 {
   margin-bottom:0px;
   margin-top: 0px;
   padding-top: 0px;
+  margin-right: 350px;
 
 }
 ul {
   list-style-type: none;
-  overflow: hidden;
-  margin-left: 400px;
+  margin-left: 10px;
   margin-bottom: 0px;
-  padding-bottom: 0px;
+  padding-left: 0px;
+  display: inline-block;
 }
 div.block {
   display: inline-block;
@@ -33,4 +35,9 @@ div.block {
 }
 div.top {
   display: inline-block;
+}
+div.link {
+  display:block;
+  padding: 0px;
+  margin-left: 0px;
 }
