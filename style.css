@@ -1,5 +1,5 @@
 *
-  border: black solid 2px;
+  {border: pink solid 2px;}
 
 header {
 
@@ -31,7 +31,8 @@ ul {
 div.block {
   display: inline-block;
   margin-top: 15px;
-  margin-left: 193px;
+  margin-left: 0px;
+  margin-right: 100px;
 }
 div.top {
   display: inline-block;
@@ -39,5 +40,8 @@ div.top {
 div.link {
   display:block;
   padding: 0px;
-  margin-left: 0px;
+  margin-left: 100px;
+}
+body {
+  margin-left: 175px;
 }
