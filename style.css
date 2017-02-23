@@ -45,3 +45,10 @@ div.link {
 body {
   margin-left: 175px;
 }
+div.title {
+  display:inline-block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 100px;
+  padding:0px;
+}
