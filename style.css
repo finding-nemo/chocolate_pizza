@@ -63,6 +63,14 @@ div.print {
   margin-top: 0px;
 }
 div.list {
-  background-image: "lab-assets\list-bg.png";
   display: block;
+  background-image: url("lab-assets\list-bg.jpg")
+  background-position: center;
+  width: 800px;
+  height: 500px;
+  position: absolute;
+}
+#img {
+  display: inline-block;
+  position: absolute;
 }
